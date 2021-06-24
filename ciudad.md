@@ -1,4 +1,5 @@
-Buenos Aires
-Rosario
-Cordoba
-Bogota
+Buenos Aires, Argentina
+Bogotá, Colombia
+Madrid
+La Paz
+Ciudad de México
